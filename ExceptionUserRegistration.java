@@ -30,7 +30,7 @@ public class ExceptionUserRegistration {
         /**
          * The Matcher and Pattern classes provide the facility of Java regular
          * expression Pattern object represents a compile version of regular expression
-         * we can create a pattern object by using compile() version of pattern class
+         * we can create a    pattern object by using compile() version of pattern class
          */
 
         Pattern pattern = Pattern.compile("^[A-Z]{1}[a-z]{2,}$");
