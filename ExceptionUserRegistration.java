@@ -28,7 +28,7 @@ public class ExceptionUserRegistration {
      * boolean type
      *
      * @param str- passing password
-     * @return -return to method created
+     * @return -return  to method created
      */
     public boolean passwordRule1(String str) {
         Pattern pattern = Pattern.compile("[a-zA-Z]{8,}");
